@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616001391806",
+    "project_id": "aelo-c1975",
+    "storage_bucket": "aelo-c1975.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616001391806:android:55afa65d64af4b232c62ef",
+        "android_client_info": {
+          "package_name": "com.aelo.aelo_prototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616001391806-im5cjaapocs0he0dpfvojois9u39mvsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwT_pr9vw9UCdT8gQReEEq-gKYcLB1A2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616001391806-im5cjaapocs0he0dpfvojois9u39mvsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
